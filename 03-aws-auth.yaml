@@ -12,10 +12,6 @@ data:
       userarn: arn:aws:iam::117647030715:user/yash
       username: yash
     - groups:
-      - roboshop-trainee
-      userarn: arn:aws:iam::117647030715:user/yash
-      username: yash
-    - groups:
       - roboshop-admin
       userarn: arn:aws:iam::117647030715:user/ramesh
       username: ramesh
